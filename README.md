@@ -1,4 +1,4 @@
-# Meeting Notes Converter
+# Meeting Notes Summarizer
 
 An AI-powered web app that converts messy, unstructured meeting notes 
 into clean, structured summaries in seconds.
