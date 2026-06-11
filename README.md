@@ -27,7 +27,7 @@ We decided to move the staging environment to AWS.
 Anyone know if the old server needs to be shut down after migration?
 
 **Output:**
-
+**###Summary:**
 The dev team held a weekly standup to discuss ongoing tasks and 
 infrastructure changes.
 
